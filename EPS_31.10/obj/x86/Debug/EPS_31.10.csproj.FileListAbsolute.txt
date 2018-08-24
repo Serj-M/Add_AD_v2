@@ -1,0 +1,45 @@
+c:\users\smakshakov\documents\visual studio 2010\Projects\EPS_31.10\EPS_31.10\bin\Debug\EPS_31.10.exe
+c:\users\smakshakov\documents\visual studio 2010\Projects\EPS_31.10\EPS_31.10\bin\Debug\EPS_31.10.pdb
+c:\users\smakshakov\documents\visual studio 2010\Projects\EPS_31.10\EPS_31.10\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\smakshakov\documents\visual studio 2010\Projects\EPS_31.10\EPS_31.10\obj\x86\Debug\EPS_31._10.Form1.resources
+c:\users\smakshakov\documents\visual studio 2010\Projects\EPS_31.10\EPS_31.10\obj\x86\Debug\EPS_31._10.Properties.Resources.resources
+c:\users\smakshakov\documents\visual studio 2010\Projects\EPS_31.10\EPS_31.10\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\smakshakov\documents\visual studio 2010\Projects\EPS_31.10\EPS_31.10\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\smakshakov\documents\visual studio 2010\Projects\EPS_31.10\EPS_31.10\obj\x86\Debug\EPS_31.10.exe
+c:\users\smakshakov\documents\visual studio 2010\Projects\EPS_31.10\EPS_31.10\obj\x86\Debug\EPS_31.10.pdb
+C:\Users\Makshakov\Documents\Visual Studio 2010\Projects\EPS_31.10\EPS_31.10\obj\x86\Debug\EPS_31.10.exe
+C:\Users\Makshakov\Documents\Visual Studio 2010\Projects\EPS_31.10\EPS_31.10\obj\x86\Debug\EPS_31.10.pdb
+C:\Users\Makshakov\Documents\Visual Studio 2010\Projects\EPS_31.10\EPS_31.10\bin\Debug\EPS_31.10.exe
+C:\Users\Makshakov\Documents\Visual Studio 2010\Projects\EPS_31.10\EPS_31.10\bin\Debug\EPS_31.10.pdb
+C:\Users\Makshakov\Documents\Visual Studio 2010\Projects\EPS_31.10\EPS_31.10\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Makshakov\Documents\Visual Studio 2010\Projects\EPS_31.10\EPS_31.10\obj\x86\Debug\EPS_31._10.Form1.resources
+C:\Users\Makshakov\Documents\Visual Studio 2010\Projects\EPS_31.10\EPS_31.10\obj\x86\Debug\EPS_31._10.Properties.Resources.resources
+C:\Users\Makshakov\Documents\Visual Studio 2010\Projects\EPS_31.10\EPS_31.10\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Makshakov\Documents\Visual Studio 2010\Projects\EPS_31.10\EPS_31.10\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Makshakov\Documents\Visual Studio 2010\Projects\pattern users_AD\EPS_31.10\obj\x86\Debug\EPS_31.10.exe
+C:\Users\Makshakov\Documents\Visual Studio 2010\Projects\pattern users_AD\EPS_31.10\obj\x86\Debug\EPS_31.10.pdb
+C:\Users\Makshakov\Documents\Visual Studio 2010\Projects\pattern users_AD\EPS_31.10\bin\Debug\EPS_31.10.exe
+C:\Users\Makshakov\Documents\Visual Studio 2010\Projects\pattern users_AD\EPS_31.10\bin\Debug\EPS_31.10.pdb
+C:\Users\Makshakov\Documents\Visual Studio 2010\Projects\pattern users_AD\EPS_31.10\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Makshakov\Documents\Visual Studio 2010\Projects\pattern users_AD\EPS_31.10\obj\x86\Debug\EPS_31._10.Form1.resources
+C:\Users\Makshakov\Documents\Visual Studio 2010\Projects\pattern users_AD\EPS_31.10\obj\x86\Debug\EPS_31._10.Properties.Resources.resources
+C:\Users\Makshakov\Documents\Visual Studio 2010\Projects\pattern users_AD\EPS_31.10\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Makshakov\Documents\Visual Studio 2010\Projects\pattern users_AD\EPS_31.10\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Makshakov\Documents\Visual Studio 2010\Projects\BackUp_не для ПМ\pattern users_AD_отлажена\EPS_31.10\obj\x86\Debug\EPS_31.10.exe
+C:\Users\Makshakov\Documents\Visual Studio 2010\Projects\BackUp_не для ПМ\pattern users_AD_отлажена\EPS_31.10\obj\x86\Debug\EPS_31.10.pdb
+C:\Users\Makshakov\Documents\Visual Studio 2010\Projects\BackUp_не для ПМ\pattern users_AD_отлажена\EPS_31.10\bin\Debug\EPS_31.10.exe
+C:\Users\Makshakov\Documents\Visual Studio 2010\Projects\BackUp_не для ПМ\pattern users_AD_отлажена\EPS_31.10\bin\Debug\EPS_31.10.pdb
+C:\Users\Makshakov\Documents\Visual Studio 2010\Projects\BackUp_не для ПМ\pattern users_AD_отлажена\EPS_31.10\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Makshakov\Documents\Visual Studio 2010\Projects\BackUp_не для ПМ\pattern users_AD_отлажена\EPS_31.10\obj\x86\Debug\EPS_31._10.Form1.resources
+C:\Users\Makshakov\Documents\Visual Studio 2010\Projects\BackUp_не для ПМ\pattern users_AD_отлажена\EPS_31.10\obj\x86\Debug\EPS_31._10.Properties.Resources.resources
+C:\Users\Makshakov\Documents\Visual Studio 2010\Projects\BackUp_не для ПМ\pattern users_AD_отлажена\EPS_31.10\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Makshakov\Documents\Visual Studio 2010\Projects\BackUp_не для ПМ\pattern users_AD_отлажена\EPS_31.10\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Makshakov\Documents\Visual Studio 2010\Projects\BackUp_не для ПМ\pattern users_AD\EPS_31.10\obj\x86\Debug\EPS_31.10.exe
+C:\Users\Makshakov\Documents\Visual Studio 2010\Projects\BackUp_не для ПМ\pattern users_AD\EPS_31.10\obj\x86\Debug\EPS_31.10.pdb
+C:\Users\Makshakov\Documents\Visual Studio 2010\Projects\BackUp_не для ПМ\pattern users_AD\EPS_31.10\bin\Debug\EPS_31.10.exe
+C:\Users\Makshakov\Documents\Visual Studio 2010\Projects\BackUp_не для ПМ\pattern users_AD\EPS_31.10\bin\Debug\EPS_31.10.pdb
+C:\Users\Makshakov\Documents\Visual Studio 2010\Projects\BackUp_не для ПМ\pattern users_AD\EPS_31.10\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Makshakov\Documents\Visual Studio 2010\Projects\BackUp_не для ПМ\pattern users_AD\EPS_31.10\obj\x86\Debug\EPS_31._10.Form1.resources
+C:\Users\Makshakov\Documents\Visual Studio 2010\Projects\BackUp_не для ПМ\pattern users_AD\EPS_31.10\obj\x86\Debug\EPS_31._10.Properties.Resources.resources
+C:\Users\Makshakov\Documents\Visual Studio 2010\Projects\BackUp_не для ПМ\pattern users_AD\EPS_31.10\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Makshakov\Documents\Visual Studio 2010\Projects\BackUp_не для ПМ\pattern users_AD\EPS_31.10\obj\x86\Debug\GenerateResource.write.1.tlog

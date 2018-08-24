@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EPS_31.10", "EPS_31.10\EPS_31.10.csproj", "{EB405F19-1AA5-438F-A739-5D2CAD2B032F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB405F19-1AA5-438F-A739-5D2CAD2B032F}.Debug|x86.ActiveCfg = Debug|x86
+		{EB405F19-1AA5-438F-A739-5D2CAD2B032F}.Debug|x86.Build.0 = Debug|x86
+		{EB405F19-1AA5-438F-A739-5D2CAD2B032F}.Release|x86.ActiveCfg = Release|x86
+		{EB405F19-1AA5-438F-A739-5D2CAD2B032F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
